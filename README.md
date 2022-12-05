@@ -88,3 +88,7 @@ docker-compose --env-file .env.prod up
 - [Cookiecutter template: full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql/blob/master/README.md)
 - [Dash: interactive image segmentation](https://github.com/plotly/dash-sample-apps/tree/master/apps/dash-image-segmentation)
 - [Dash: 3D image partitioning](https://github.com/plotly/dash-3d-image-partitioning)
+
+## Acknowledgements
+
+The computational resources and services used in this work were provided by NVIDIA, VIB IRC IT and the VSC (Flemish Supercomputer Center), funded by the Research Foundation – Flanders (FWO) and the Flemish Government. Imaging data and feedback was provided by the VIB BioImaging Core. Funding was provided by the Flanders AI Research Program.
